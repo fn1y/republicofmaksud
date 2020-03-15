@@ -59,18 +59,20 @@
 <link rel="icon" type="image/png" href="https://republicofmaksud.xyz/resources/favicon_large.png" sizes="64x64" />
 
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="Apply | The Republic of Maksud">
-	<meta name="twitter:image" content="https://republicofmaksud.xyz/resources/Screenshot-2020-03-15-at-11.13.43.png">
-	<meta name="twitter:url" content="https://republicofmaksud.xyz/contact-form/index.php">
+	<meta name="twitter:title" content="Republic of Maksud">
+	<meta name="twitter:description" content="The official website for the Republic of Maksud Minecraft server.">
+	<meta name="twitter:image" content="https://republicofmaksud.xyz/resources/profile.png">
+	<meta name="twitter:url" content="https://republicofmaksud.xyz/apply/index.php">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="The Republic of Maksud">
-	<meta property="og:title" content="Apply | The Republic of Maksud">
-	<meta property="og:image" content="https://republicofmaksud.xyz/resources/Screenshot-2020-03-15-at-11.13.43.png">
-	<meta property="og:url" content="https://republicofmaksud.xyz/contact-form/index.php">
+	<meta property="og:title" content="Republic of Maksud">
+	<meta property="og:description" content="The official website for the Republic of Maksud Minecraft server.">
+	<meta property="og:image" content="https://republicofmaksud.xyz/resources/profile.png">
+	<meta property="og:url" content="https://republicofmaksud.xyz/apply/index.php">
 	
 
 	<title>Apply | The Republic of Maksud</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Future/consolidated.css?rwcache=605971344" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Future/consolidated.css?rwcache=605971760" />
 		
 	
 	   
@@ -159,7 +161,7 @@
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript" src="../rw_common/themes/Future/js/main.js?rwcache=605971344"></script>
+	<script type="text/javascript" src="../rw_common/themes/Future/js/main.js?rwcache=605971760"></script>
 </body>
 
 </html>

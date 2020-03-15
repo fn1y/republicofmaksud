@@ -213,12 +213,14 @@
 
 
 
+
+
+
 #stacks_in_87_page1 a:link, #stacks_in_87_page1 a:visited {
 	background-color:#FF7E00;
 	background: -webkit-gradient(linear, left top, left bottom, from(#FF7E00), to(#BF4B00));
 	border:1px solid #BF4B00;
 	padding:3px 20px;
-	border-radius:30px;
 	color:#FFFFFF;
 	box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
 	margin:5px;
@@ -233,6 +235,3 @@
 	background-color:#FF7E00;
 	box-shadow:rgba(0, 0, 0, 0.75) 0px 0px 4px inset;
 }
-
-
-
