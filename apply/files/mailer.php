@@ -7,7 +7,7 @@ session_start();
 //////////////////////////////////////////////////////
 
 //set the return URL
-$return_url = "../penis.php";
+$return_url = "../page0.php";
 
 //set the users email address
 $email = "finlaycarsonm@gmail.com";
