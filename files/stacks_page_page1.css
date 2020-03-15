@@ -204,11 +204,8 @@
 	text-decoration:none;
 }
 #stacks_in_87_page1 a:hover, #stacks_in_87_page1 a:active {
-	color:#FFFFFF;
+	color:#FD8008;
 }
-
-
-
 
 
 
@@ -217,21 +214,25 @@
 
 
 #stacks_in_87_page1 a:link, #stacks_in_87_page1 a:visited {
-	background-color:#FF7E00;
-	background: -webkit-gradient(linear, left top, left bottom, from(#FF7E00), to(#BF4B00));
-	border:1px solid #BF4B00;
+	background-color:#FFFFFF;
+	background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#BFBFBF));
+	border:1px solid #BFBFBF;
 	padding:3px 20px;
-	color:#FFFFFF;
+	border-radius:30px;
+	color:#FD8008;
 	box-shadow:rgba(0, 0, 0, 0.5) 0px 1px 2px;
 	margin:5px;
 	font-weight:bold;
 }
 #stacks_in_87_page1 a:hover {
-	background-color:#FF8800;
-	background: -webkit-gradient(linear, left top, left bottom, from(#FF8800), to(#A54100));
+	background-color:#FFFFFF;
+	background: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#A5A5A5));
 	box-shadow:rgba(0, 0, 0, 0.25) 0px 2px 4px;
 }
 #stacks_in_87_page1 a:active {
-	background-color:#FF7E00;
+	background-color:#FFFFFF;
 	box-shadow:rgba(0, 0, 0, 0.75) 0px 0px 4px inset;
 }
+
+
+
