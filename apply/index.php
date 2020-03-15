@@ -62,17 +62,17 @@
 	<meta name="twitter:title" content="Republic of Maksud">
 	<meta name="twitter:description" content="The official website for the Republic of Maksud Minecraft server.">
 	<meta name="twitter:image" content="https://republicofmaksud.xyz/resources/profile.png">
-	<meta name="twitter:url" content="https://republicofmaksud.xyz/apply/penis.php">
+	<meta name="twitter:url" content="https://republicofmaksud.xyz/apply/index.php">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="The Republic of Maksud">
 	<meta property="og:title" content="Republic of Maksud">
 	<meta property="og:description" content="The official website for the Republic of Maksud Minecraft server.">
 	<meta property="og:image" content="https://republicofmaksud.xyz/resources/profile.png">
-	<meta property="og:url" content="https://republicofmaksud.xyz/apply/penis.php">
+	<meta property="og:url" content="https://republicofmaksud.xyz/apply/index.php">
 	
 
 	<title>Apply | ROM</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Future/consolidated-0.css?rwcache=605972123" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Future/consolidated-0.css?rwcache=605972301" />
 		
 	
 	   
@@ -89,7 +89,7 @@
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<div class="collapse navbar-collapse" id="navbarNav">
-				<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item active"><a href="penis.php" rel="" class="nav-link">Apply</a></li><li class="nav-item"><a href="../page/" rel="" class="nav-link">Phases</a></li></ul>
+				<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Apply</a></li><li class="nav-item"><a href="../page/" rel="" class="nav-link">Phases</a></li></ul>
 			</div>
 		</div>
 	</nav>
@@ -155,13 +155,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item active"><a href="penis.php" rel="" class="nav-link">Apply</a></li><li class="nav-item"><a href="../page/" rel="" class="nav-link">Phases</a></li></ul>
+					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Apply</a></li><li class="nav-item"><a href="../page/" rel="" class="nav-link">Phases</a></li></ul>
 					&copy; 2020 Adrian Testa & Finlay Carson Moretti | Site Version 1.1
 				</div>
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript" src="../rw_common/themes/Future/js/main.js?rwcache=605972123"></script>
+	<script type="text/javascript" src="../rw_common/themes/Future/js/main.js?rwcache=605972301"></script>
 </body>
 
 </html>
