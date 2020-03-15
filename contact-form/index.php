@@ -70,7 +70,7 @@
 	
 
 	<title>Apply | The Republic of Maksud</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Future/consolidated.css?rwcache=605969158" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Future/consolidated.css?rwcache=605971344" />
 		
 	
 	   
@@ -154,12 +154,12 @@
 			<div class="row">
 				<div class="col">
 					<ul class="navbar-nav ml-auto"><li class="nav-item"><a href="../" rel="" class="nav-link">Home</a></li><li class="nav-item active"><a href="./" rel="" class="nav-link">Apply</a></li><li class="nav-item"><a href="../page/" rel="" class="nav-link">Phases</a></li></ul>
-					&copy; 2020 Adrian Testa & Finlay Carson Moretti | Site Version 1.0
+					&copy; 2020 Adrian Testa & Finlay Carson Moretti | Site Version 1.1
 				</div>
 			</div>
 		</div>
 	</div>
-	<script type="text/javascript" src="../rw_common/themes/Future/js/main.js?rwcache=605969158"></script>
+	<script type="text/javascript" src="../rw_common/themes/Future/js/main.js?rwcache=605971344"></script>
 </body>
 
 </html>
